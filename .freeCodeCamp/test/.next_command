@@ -52,3 +52,5 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
+ls --color=auto -l
+chmod +x countdown.sh
