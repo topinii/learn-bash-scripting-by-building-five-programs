@@ -123,3 +123,4 @@ echo LANG
 LANG echo
 echo
 echo $LANG
+declare -p
