@@ -160,3 +160,4 @@ help test
 ./bingo.sh 45
 __vsc_prompt_cmd_original
 ./bingo.sh
+./bingo.sh
