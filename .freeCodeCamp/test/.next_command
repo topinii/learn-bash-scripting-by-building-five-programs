@@ -118,3 +118,8 @@ touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+__vsc_prompt_cmd_original
+echo LANG
+LANG echo
+echo
+echo $LANG
