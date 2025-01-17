@@ -95,3 +95,5 @@ help test
 [[ -a bad_file.txt ]]
 ls --color=auto -l
 [[ -x countdown.sh ]]
+help
+help [[
