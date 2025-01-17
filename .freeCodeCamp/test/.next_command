@@ -138,3 +138,4 @@ help let
 (( I += 10 ))
 echo I
 echo $I
+$(( I + 4 ))
