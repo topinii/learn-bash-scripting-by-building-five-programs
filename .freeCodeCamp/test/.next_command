@@ -205,3 +205,4 @@ help [[ expression ]]
 VAR="hello world"
 echo VAR
 echo $VAR
+[[ $VAR == "hello world" ]]
